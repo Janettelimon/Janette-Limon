@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - images
+    - resume
+
+website:
+  title: "Janette Limon"
+  navbar:
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Marketing Analytics"
+        href: marketing-analytics.qmd
+      - text: "Strategic Marketing"
+        href: strategic-marketing.qmd
+      - text: "Résumé"
+        href: resume.qmd
+
+format:
+  html:
+    theme: [flatly, theme.scss]
+    toc: true
+

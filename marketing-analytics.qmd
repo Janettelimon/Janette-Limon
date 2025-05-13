@@ -1,0 +1,23 @@
+---
+title: "Marketing Analytics"
+listing: 
+  contents: listings
+  type: grid
+  categories: true
+  sort: 
+    - "index desc"
+---
+
+Below are selected projects that highlight my experience applying marketing analytics, strategy, and digital tools to real-world and academic challenges. These projects reflect my ability to blend data insights, community-focused storytelling, and creative execution to support outreach, engagement, and growth.
+
+Whether developing digital campaigns, analyzing customer data, or proposing strategic initiatives, I approach each project with a balance of research, empathy, and results-driven thinking.
+
+## What You’ll Find
+
+- **Event Campaign Performance:** Strategic promotion and outreach for events like the National Innovative Communities Conference, Health Professions Conference, and Día de los Muertos in Jurupa Valley.
+- **School-Based Analytics Projects:** Marketing and data analysis initiatives completed at Cal Poly Pomona—including CRM proposals, digital platform research, and brand strategy.
+- **Digital Content Testing** Building and optimizing social media campaigns tailored to generate leads, increase registration, or raise community awareness
+- **Website Creation & UX Design:** Designing a branded cupcake e-commerce website from scratch using WordPress and Weebly.
+- **Student Engagement Research:** Academic insights into how platforms like Instagram and Discord shape the student experience through statistical analysis.
+
+---
